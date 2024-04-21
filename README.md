@@ -3,3 +3,8 @@
 This is how i automated the provisioning of two Ubuntu-based servers, "Master" and "Slave", using Vagrant. I created a Bash script to automate the deployment of a LAMP (Linux, Apache, MySQL, PHP) stack on the "Master" node. Then, i used an Ansible playbook to execute this script on the "Slave" node. Finally, i created a cron job on the "Slave" node to check the server's uptime.
 
 Created a Vagrantfile to provision the "Master" and "Slave" VMs.
+
+<img width="1680" alt="Screenshot 2024-04-22 at 00 48 53" src="https://github.com/manafak/Exam-second-semester/assets/149635098/b88fdcb5-8644-4656-b298-8bf93bdebff0">
+
+Run vagrant up to start the VMs.
+create bash script
