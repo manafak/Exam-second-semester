@@ -8,3 +8,5 @@ Created a Vagrantfile to provision the "Master" and "Slave" VMs.
 
 Run vagrant up to start the VMs.
 create bash script
+
+<img width="1680" alt="Screenshot 2024-04-22 at 00 56 11" src="https://github.com/manafak/Exam-second-semester/assets/149635098/54406c6b-fcd7-473f-828f-b22c02d8ad87">
