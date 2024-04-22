@@ -45,3 +45,5 @@ We execute our playbook using the command 'ansible-playbook -i inventory playboo
 We access the PHP application (laravel) through the "Slave" VM's IP address in a web browser.
 
 
+
+<img width="1680" alt="Screenshot 2024-04-22 at 01 25 21" src="https://github.com/manafak/Exam-second-semester/assets/149635098/94b6ce07-329f-494f-b9cc-450e4c2443bd">
