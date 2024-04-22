@@ -15,7 +15,7 @@ create bash script deploy_lamp.sh
 
 <img width="1680" alt="Screenshot 2024-04-22 at 00 56 49" src="https://github.com/manafak/Exam-second-semester/assets/149635098/fe55961c-8e1f-440f-a1ad-90be372a522d">
 
-grant execution for the file and deploy.
+grant execution permission for the file and deploy.
 
 <img width="1680" alt="Screenshot 2024-04-20 at 16 06 20" src="https://github.com/manafak/Exam-second-semester/assets/149635098/64fc8f39-60af-446b-8946-ead5cf67ba6f">
 
