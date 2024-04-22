@@ -23,6 +23,8 @@ grant execution for the file and deploy.
 
 we can check laravel using the ip address of the master
 
+<img width="1680" alt="Screenshot 2024-04-20 at 14 44 32" src="https://github.com/manafak/Exam-second-semester/assets/149635098/3102c98c-107d-4356-84de-c62dbe424006">
+
 
 
 
