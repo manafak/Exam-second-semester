@@ -40,3 +40,8 @@ We create our playbook with an extension of our cron job in 'playbook.yml'
 
 We execute our playbook using the command 'ansible-playbook -i inventory playbook.yml'
 
+<img width="1680" alt="Screenshot 2024-04-21 at 15 53 28" src="https://github.com/manafak/Exam-second-semester/assets/149635098/eb1b8e37-2a14-488f-aae2-17b3d90ed3eb">
+
+We access the PHP application (laravel) through the "Slave" VM's IP address in a web browser.
+
+
