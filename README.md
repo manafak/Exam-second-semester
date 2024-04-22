@@ -19,3 +19,16 @@ grant execution for the file and deploy.
 
 <img width="1680" alt="Screenshot 2024-04-20 at 16 06 20" src="https://github.com/manafak/Exam-second-semester/assets/149635098/64fc8f39-60af-446b-8946-ead5cf67ba6f">
 
+<img width="713" alt="Screenshot 2024-04-22 at 01 07 14" src="https://github.com/manafak/Exam-second-semester/assets/149635098/d7e32fdd-eeb4-43a6-b082-3ea9d9c5a580">
+
+we can check laravel using the ip address of the master
+
+
+
+after successful deployment of the bash script. we connect our master vm to our slave.
+we generate ssh key using  'ssh-keygen', after they're generated we run 'ssh-copy-id(vagrant ip address)'. we complete the configuration and create Ansible using 'sudi apt install ansible'.
+
+we cd in ansible and create our inventory file will will hold our slave ip address.
+
+we run 'ansible -i inventory slave -m ping', this command tells Ansible to use the inventory file named inventory, target the host or group called slave, and then run the ping module to check if it can reach the target machine(s) and if it has the necessary permissions to run commands on it.
+
