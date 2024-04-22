@@ -22,6 +22,8 @@ grant execution for the file and deploy.
 <img width="713" alt="Screenshot 2024-04-22 at 01 07 14" src="https://github.com/manafak/Exam-second-semester/assets/149635098/d7e32fdd-eeb4-43a6-b082-3ea9d9c5a580">
 
 we can check laravel using the ip address of the master
+<img width="1680" alt="Screenshot 2024-04-20 at 14 18 06" src="https://github.com/manafak/Exam-second-semester/assets/149635098/f0792683-d9ac-44d8-958a-b53bbd8e5bc2">
+
 
 
 
