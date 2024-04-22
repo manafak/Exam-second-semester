@@ -34,6 +34,9 @@ we cd in ansible and create our inventory file which will hold our slave ip addr
 
 we run 'ansible -i inventory slave -m ping', this command tells Ansible to use the inventory file named inventory, target the host or group called slave, and then run the ping module to check if it can reach the target machine(s) and if it has the necessary permissions to run commands on it.
 
-We create our playbook 'playbook.yml'
+We create our playbook with an extension of our cron job in 'playbook.yml'
 
+<img width="747" alt="Screenshot 2024-04-22 at 01 38 11" src="https://github.com/manafak/Exam-second-semester/assets/149635098/b7e89ba2-fdd1-4f1d-b528-c5b5bc0b54cb">
+
+We execute our playbook using the command 'ansible-playbook -i inventory playbook.yml'
 
