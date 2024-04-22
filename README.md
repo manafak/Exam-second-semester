@@ -25,6 +25,7 @@ we can check laravel using the ip address of the master
 
 <img width="1680" alt="Screenshot 2024-04-20 at 14 44 32" src="https://github.com/manafak/Exam-second-semester/assets/149635098/3102c98c-107d-4356-84de-c62dbe424006">
 
+<img width="1680" alt="Screenshot 2024-04-20 at 14 51 23" src="https://github.com/manafak/Exam-second-semester/assets/149635098/3b78ab59-c2fd-4f39-b795-2f96b1cabda3">
 
 
 
