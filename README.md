@@ -21,7 +21,7 @@ grant execution for the file and deploy.
 
 <img width="713" alt="Screenshot 2024-04-22 at 01 07 14" src="https://github.com/manafak/Exam-second-semester/assets/149635098/d7e32fdd-eeb4-43a6-b082-3ea9d9c5a580">
 
-we can check laravel using the ip address of the master
+we can access the PHP application laravel using the ip address of the master node
 
 <img width="1680" alt="Screenshot 2024-04-20 at 14 44 32" src="https://github.com/manafak/Exam-second-semester/assets/149635098/3102c98c-107d-4356-84de-c62dbe424006">
 
@@ -44,6 +44,6 @@ We execute our playbook using the command 'ansible-playbook -i inventory playboo
 
 We access the PHP application (laravel) through the "Slave" VM's IP address in a web browser.
 
-
+<img width="526" alt="Screenshot 2024-04-22 at 01 50 20" src="https://github.com/manafak/Exam-second-semester/assets/149635098/d3cbce6b-a35a-4263-b42a-77f5a1db4a3c">
 
 <img width="1680" alt="Screenshot 2024-04-22 at 01 25 21" src="https://github.com/manafak/Exam-second-semester/assets/149635098/94b6ce07-329f-494f-b9cc-450e4c2443bd">
